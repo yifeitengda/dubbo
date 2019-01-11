@@ -10,6 +10,7 @@ public class MyController {
         System.out.println("Just for you");
         System.out.println("the fro your tormoor");
         System.out.println("fory ou me to and ");
+        System.out.println("just for you and me ");
         return "for you and me index";
     }
 }
